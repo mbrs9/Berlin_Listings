@@ -21,7 +21,7 @@ This repository contains:
   + listings.csv
 
 ## Acknowledgements
-This data was created by Murray Cox and his Inside Airbnb project which can be found [here][insideairbnb.com/get-the-data.html].
+This data was created by Murray Cox and his Inside Airbnb project which can be found [here](insideairbnb.com/get-the-data.html).
 
 ## Development
 This app was developed by Miguel Bravo S.
