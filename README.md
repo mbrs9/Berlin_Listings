@@ -18,7 +18,7 @@ This repository contains:
 * server.R
 * global.R
 * data
- + listings.csv
+  + listings.csv
 
 ## Acknowledgements
 This data was created by Murray Cox and his Inside Airbnb project which can be found [here][insideairbnb.com/get-the-data.html].
